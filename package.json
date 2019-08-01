@@ -1,5 +1,5 @@
 {
-  "name": "react-form-creator-v2",
+  "name": "reactjs-form-creator",
   "version": "0.1.0",
   "description": "",
   "main": "src/Forms/Containers/FormCreator.js",
