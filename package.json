@@ -1,0 +1,39 @@
+{
+  "name": "npm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/Forms/Containers/FormCreator.js",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-datepicker": "^2.8.0",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "build": "babel src/Forms/Containers/FormCreator.js -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaconsultores/react-form-creator.git"
+  },
+  "keywords": [
+    "react",
+    "form",
+    "created",
+    "automatic"
+  ],
+  "author": "EA Consultores <sistemas@eaconsultores.com.co> (http://eaconsultores.com.co)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/eaconsultores/react-form-creator/issues"
+  },
+  "homepage": "https://github.com/eaconsultores/react-form-creator#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-cli": "^6.0.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
